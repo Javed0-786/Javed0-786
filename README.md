@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter: [@javed0_786](https://twitter.com/javed0_786).<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email at: alam9120573582@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am afraid of my achievements as if they are very small to be shared.
+<h2>Socials<h2>
 
+
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 
