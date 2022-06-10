@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am afraid of my achievements as if they are very small to be shared.
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=javed0-786&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
